@@ -24,5 +24,5 @@ let y = 36;
 //     console.log("False");
 // }
 
-
+// Ternary operator
 x > y ? console.log("true") : console.log("False");
