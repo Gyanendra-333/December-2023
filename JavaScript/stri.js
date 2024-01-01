@@ -38,7 +38,7 @@ function RemoveOneChar(A, B, N, M) {
         // Print the positions
         // of the characters
         for (i = Y; i <= X; i++)
-            document.write(i + 1 + " ");
+            console.log(i + 1 + " ");
         console.log("\n");
     }
 
