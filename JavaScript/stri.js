@@ -39,7 +39,7 @@ function RemoveOneChar(A, B, N, M) {
         // of the characters
         for (i = Y; i <= X; i++)
             document.write(i + 1 + " ");
-        document.write("\n");
+        console.log("\n");
     }
 
     // Otherwise
