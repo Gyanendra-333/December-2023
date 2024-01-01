@@ -44,10 +44,9 @@ function RemoveOneChar(A, B, N, M) {
 
     // Otherwise
     else
-        document.write(-1);
+        console.log(-1);
 }
 
-// Driver Code
 var A = "abaac";
 var B = "abac";
 var N = A.length;
