@@ -33,7 +33,7 @@ function RemoveOneChar(A, B, N, M) {
 
         // Print the count
         // of characters
-        document.write(X - Y + 1 + "<br>");
+        console.log(X - Y + 1);
 
         // Print the positions
         // of the characters
