@@ -1,10 +1,9 @@
-
-
 // JavaScript program for the above approach
 
 // Function to count characters
 // from string A whose removal
 // makes the strings A and B equal
+
 function RemoveOneChar(A, B, N, M) {
     // Stores the index of
     // the longest prefix
